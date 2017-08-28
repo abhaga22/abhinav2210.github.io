@@ -4,15 +4,17 @@
 
 [PAGE JS ]
 
-    Version      :  1.0 
+    Version      :  2.0
 
-    Author       :  Cadeniuc Ion  ( https://themeforest.net/user/cadeniuc )
+    Author       :  Abhinav Agarwal
 
-    My WebSite    :  www.cadeniuc.com
+    My WebSite    :  www.knowabhinav.com
 
-    Author Phone   :  068580073
+    Author Phone   :  +1 4702636277/
 
-    Author Email : icadeniuc16@gmail.com
+    Author Email : aagarwal95@gatech.edu
+    Alternate Email: agarwal.abhinav22@gmail.com
+
 
 ===========================================================
 */
@@ -158,7 +160,7 @@ $(function(){
 
           $('.grid').mixItUp();
 
-  
+
 
 /*
          * ----------------------------------------------------------------------------------------
@@ -190,7 +192,7 @@ $(function(){
                 }
             });
         };
-        // Call the functions 
+        // Call the functions
         magnifPopup();
 
 
@@ -241,7 +243,7 @@ $(function(){
 
 /*
          * ----------------------------------------------------------------------------------------
-         *  OVERFLOW ON CLICK MENU 
+         *  OVERFLOW ON CLICK MENU
          * ----------------------------------------------------------------------------------------
          */
 
@@ -255,7 +257,7 @@ $(function(){
 
 /*
          * ----------------------------------------------------------------------------------------
-         *  SCROLL ANIMATION SMALL 
+         *  SCROLL ANIMATION SMALL
          * ----------------------------------------------------------------------------------------
          */
             try {
@@ -307,4 +309,3 @@ $(function(){
 
 
 });
-
